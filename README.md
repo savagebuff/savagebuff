@@ -13,7 +13,7 @@
 
 ### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
 
-### - Hobbies : ✨ Gaming Addict, ✨ Watching Anime, ✨ Reading Light Novels, ✨ Football
+### - Hobbies : Gaming Addict, Watching Anime, Reading Light Novels, Football
 
 <img hight="400" width="520" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
 
