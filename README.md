@@ -13,7 +13,7 @@
 
 ### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
+<img hight="400" width="550" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -49,9 +49,9 @@
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/mobile.png" alt="mobile"  width="120" hight="50">
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/tools.png" alt="tools" width="120" hight="50">
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/mac.png" alt="mac" width="180" hight="50">
+<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/mac.png" alt="mac" width="100" hight="50">
 </br>
-<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/xcode.png" alt="xcode" width="270" hight="50">
+<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/xcode.png" alt="xcode" width="120" hight="50">
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
