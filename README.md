@@ -13,7 +13,7 @@
 
 ### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
 
-<img hight="400" width="550" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
+<img hight="400" width="520" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -26,12 +26,6 @@
 - ✨ API/URLSession
 - ✨ UIKit, Auto Layout
 - ✨ Git Flow
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Football
 
 </br>
 </br>
