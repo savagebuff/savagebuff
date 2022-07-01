@@ -13,6 +13,12 @@
 
 ### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
 
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Football
+
 
 <img hight="400" width="520" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
 
@@ -27,12 +33,6 @@
 - ✨ API/URLSession
 - ✨ UIKit, Auto Layout
 - ✨ Git Flow
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Football
 
 </br>
 </br>
@@ -94,3 +94,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=savagebuff&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
