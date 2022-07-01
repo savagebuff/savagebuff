@@ -13,6 +13,13 @@
 
 ### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
 
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Football
+
+
 <img hight="400" width="520" alt="GIF" align="right" src="https://github.com/savagebuff/savagebuff/blob/main/assets/epic.gif">
 
 ### - Learning :
@@ -46,11 +53,10 @@
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/mac.png" alt="mac" width="100" hight="50">
 </br>
 <img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/xcode.png" alt="xcode" width="120" hight="50">
-<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/cisco.png" alt="cisco" width="100" hight="50">
+<img src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/leetcode.png" alt="leetcode" width="120" hight="50">
 </p>
 </br>
 </br>
@@ -59,3 +65,32 @@
 
 
 # Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/savagebuff/savagebuff/blob/main/assets/contact_me.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk together just ping me 😉.
+
+<a href="mailto:garaev.din@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/gmail.png" />
+</a>
+<a href="https://t.me/savage_buff">
+  <img align="left" alt="Telegram" width="150" hight="100" src="https://github.com/savagebuff/savagebuff/blob/main/assets/icons/telegram.png" />
+</br>
+</br>
+</br>
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
