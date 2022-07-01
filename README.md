@@ -1,7 +1,7 @@
  Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/savagebuff/savagebuff/blob/main/assets/hello.gif">
+<img hight="498" width="498" alt="GIF" align="center" src="https://github.com/savagebuff/savagebuff/blob/main/assets/hello.gif">
 </div>
 
 </br>
