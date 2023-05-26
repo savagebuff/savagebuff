@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  old iOS mobile development Enthusiast from Russia.
+### - I'm 21 years old iOS mobile development Enthusiast.
 
 ### - Hobbies : Gaming Addict, Watching Anime, Reading Light Novels, Football
 
@@ -20,13 +20,13 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ UIKit, Auto Layout
-- ✨ MVC/MVVM
+- ✨ SwiftUI
+- ✨ MV(X)
 - ✨ S.O.L.I.D.
 - ✨ GCD, Operation
-- ✨ Core Data
+- ✨ Core Data, Realm
 - ✨ Core Animation
-- ✨ API/URLSession
-- ✨ UIKit, Auto Layout
+- ✨ API/URLSession, Alamofire
 - ✨ Git Flow
 
 </br>
