@@ -23,7 +23,7 @@
 - ✨ SwiftUI
 - ✨ MV(X), UDF
 - ✨ S.O.L.I.D.
-- ✨ GCD, Operation, Concurency
+- ✨ GCD, Operation, Concurency, Combine
 - ✨ Core Data, Realm
 - ✨ Core Animation
 - ✨ API/URLSession, Alamofire
